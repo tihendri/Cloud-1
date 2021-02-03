@@ -1,6 +1,6 @@
 # **Cloud-1**
 A simple wordpress website installed on the Google Cloud Platform (GCP). \
-**The website will be hosted at `http://34.117.175.137/`**
+**The website will be hosted at `http://34.117.244.69/`**
 
 ## **Project Rules:**
 * Your website must be running at all times on at least 2 servers, if possible located in different server farms.
